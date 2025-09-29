@@ -1,7 +1,7 @@
 # services
 A very simple service converter suppourts the following services. Final version will be probaly in C. Read more in main readme.
 1. SystemD services
-2. Runinit run dirs 
+2. Runit services 
 3. OpenRC
 To install dependencies:
 
