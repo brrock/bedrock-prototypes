@@ -1,4 +1,3 @@
-// src/schemas/global.ts
 import { z } from 'zod';
 
 export const GlobalServiceSchema = z.object({
